@@ -1,7 +1,7 @@
 <?php
 
 namespace app\modules\api\controllers;
-use app\models\traits\ApiResponseTrait;
+use app\traits\ApiResponseTrait;
 use Yii;
 use yii\rest\Controller;
 use yii\web\UploadedFile;

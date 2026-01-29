@@ -1,6 +1,6 @@
 <?php
 
-namespace app\models\traits;
+namespace app\traits;
 
 use Yii;
 
